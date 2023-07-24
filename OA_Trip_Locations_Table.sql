@@ -1,0 +1,1 @@
+SELECT * FROM Trip_Locations2;
